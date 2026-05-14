@@ -1,0 +1,20 @@
+# Base de données SQLite
+database.db
+database.db-journal
+*.db
+*.db-journal
+
+# Dépendances
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables d'environnement
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
